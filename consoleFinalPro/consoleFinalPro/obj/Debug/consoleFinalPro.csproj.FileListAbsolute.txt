@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\consoleFinalPro\consoleFinalPro\bin\Debug\consoleFinalPro.exe.config
+C:\Users\Lenovo\source\repos\consoleFinalPro\consoleFinalPro\bin\Debug\consoleFinalPro.exe
+C:\Users\Lenovo\source\repos\consoleFinalPro\consoleFinalPro\bin\Debug\consoleFinalPro.pdb
+C:\Users\Lenovo\source\repos\consoleFinalPro\consoleFinalPro\obj\Debug\consoleFinalPro.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\consoleFinalPro\consoleFinalPro\obj\Debug\consoleFinalPro.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\consoleFinalPro\consoleFinalPro\obj\Debug\consoleFinalPro.exe
+C:\Users\Lenovo\source\repos\consoleFinalPro\consoleFinalPro\obj\Debug\consoleFinalPro.pdb
